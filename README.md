@@ -104,7 +104,7 @@ Encontrou um erro, tem uma sugestão ou quer adicionar conteúdo? Contribuiçõe
 
 ## 👤 Autor
 
-Feito por **Henrique Fonseca** — conecte-se comigo no [GitHub](https://github.com/henriquefonsecacampos)
+Feito por **Henrique Fonseca** — conecte-se comigo no [GitHub](https://github.com/HENR1QUEF0NSECA)
 
 ---
 
